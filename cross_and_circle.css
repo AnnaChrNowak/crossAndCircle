@@ -1,0 +1,43 @@
+body{
+  background-color: rgba(102, 102, 153, 0.5)!important;
+}
+
+.jumbotron{
+  padding: 10px 40px!important;
+  height: 260px;
+  background-color: rgba(102, 128, 153, 0.7)!important;
+  color: white;
+  font-weight: 600;
+}
+
+.btn{
+  background-color: black!important;
+  border-color: grey!important;
+  color: grey!important;
+}
+
+.btn:hover{
+  border-color: white!important;
+  color: white!important;
+}
+
+.table{
+  width: 100%;
+}
+table{
+  border: 2px solid black;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+
+td{
+  border: 1px solid black;
+  color: black;
+  font-size: 5.8em;
+  padding: 0px!important;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
